@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "64639322cbeb22cb3304b1c5"
+  },
+  "name": "Flour",
+  "quantity": "2 cups"
+},{
+  "_id": {
+    "$oid": "64639322cbeb22cb3304b1c6"
+  },
+  "name": "Sugar",
+  "quantity": "1/2 cup"
+},{
+  "_id": {
+    "$oid": "64639322cbeb22cb3304b1c7"
+  },
+  "name": "Eggs",
+  "quantity": "3"
+},{
+  "_id": {
+    "$oid": "64639322cbeb22cb3304b1c8"
+  },
+  "name": "Milk",
+  "quantity": "1 cup"
+},{
+  "_id": {
+    "$oid": "64639322cbeb22cb3304b1c9"
+  },
+  "name": "Butter",
+  "quantity": "4 tablespoons"
+}]
